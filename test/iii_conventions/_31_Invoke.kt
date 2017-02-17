@@ -3,7 +3,7 @@ package iii_conventions
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
-class _31_Invoke {
+class  _31_Invoke {
     @Test fun testTask17() {
         assertEquals(4, task31(Invokable()))
     }
